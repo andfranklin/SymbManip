@@ -1,0 +1,4 @@
+pip>=23.1.2
+setuptools>=65.5
+termcolor>=2.3
+click>=8.1.3

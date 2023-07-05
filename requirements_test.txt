@@ -1,0 +1,6 @@
+pytest>=7.4
+coverage>=6.5
+pytest-cov>=4.1
+pytest-dependency>=0.5.1
+hypothesis>=6.80.0
+coveralls>=3.3
